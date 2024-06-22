@@ -78,7 +78,7 @@ form {
 }
 form.create-note {
   position: relative;
-  width: 480px;
+  width: 90%;
   margin: 30px auto 20px auto;
   background: #fff;
   padding: 15px;
